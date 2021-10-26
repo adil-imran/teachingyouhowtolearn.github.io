@@ -1,3 +1,7 @@
+layout: page
+title: "Home"
+permalink: /home/
+
 ## Welcome to Teaching You How To Learn! 
 
 The aim of this site is to act as a natural extension of the [80,000 Hours](https://80000hours.org/) website. 
