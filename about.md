@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-[Home Page](index.md)
+[Home Page](/index.md)

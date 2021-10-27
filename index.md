@@ -16,4 +16,4 @@ I believe that empowering people to gain as much knowledge as possible in their 
 
 *(Read my [Effective Altruism Forum post](https://forum.effectivealtruism.org/posts/EwJuWKicdY76rtCsN/utility-of-an-charity-similar-to-80-000-hours-teaching) which outlines my original vision/ mission statement)*
 
-[About Page](about.md)
+[About Page](/about.md)
