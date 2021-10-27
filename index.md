@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Home"
 permalink: /home/
+---
 
 ## Welcome to Teaching You How To Learn! 
 
