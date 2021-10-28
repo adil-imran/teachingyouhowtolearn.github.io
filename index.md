@@ -15,5 +15,3 @@ The current aim is to outline the best techniques for learning and gaining knowl
 I believe that empowering people to gain as much knowledge as possible in their chosen fields will help them increase their impact over their careers.
 
 *(Read my [Effective Altruism Forum post](https://forum.effectivealtruism.org/posts/EwJuWKicdY76rtCsN/utility-of-an-charity-similar-to-80-000-hours-teaching) which outlines my original vision/ mission statement)*
-
-[About Page](/about.md)
