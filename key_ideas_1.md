@@ -12,7 +12,7 @@ permalink: /key_ideas_1/
 
 *(Note - footnotes/ appendix-style information and references are collected in this page which I'd recommend having open in a separate tab if you're interested!*
 
-*2021-09-11 quick note - highly recommend checking out this episode of the Clearer Thinking podcast with Andy Matuschak (who I mention on the resources page) for a fantastic primer on meta-learning / spaced repetition*
+*2021-09-11 quick note - highly recommend checking out [this episode](https://clearerthinkingpodcast.com/?ep=063) of the Clearer Thinking podcast with Andy Matuschak (who I mention on the resources page) for a fantastic primer on meta-learning / spaced repetition*
 
 ## Learning at school & higher education as I experienced it
 
@@ -34,6 +34,8 @@ I'll jump straight to the chase here (I have a lot of notes on the inefficient m
 
 ### The two key (and one bonus) science-backed ways to learn
 
+![images/key_1_01.jpeg]
+
 There are two techniques for learning that have been rigorously tested and shown to work wonders. Stick around as the fantastic news is that there’s a free tool that packages these techniques into one package.
 
 The first: active recall. This is a very simple technique and one that I didn't use at all at GCSE, A Level or Undergraduate. It's illustrated in this example: reading a page of a textbook, or a few slides from a Powerpoint, then looking away, and seeing how much you can remember. We've all had the experience of making beautiful notes that are colour coded, neat and packed with diagrams. This often makes us feel like we've accomplished a lot in our study session. However, the true test of our knowledge is what we remember once someone takes those beautiful notes away. If we find that we can't remember all that much, then this naturally doesn't bode well for our exams. And even more so, for the rest of our lives, as we'll be able to get through exams with a hefty amount of cramming, but as soon as this is over, we'll be left with nothing in our brains for use after our degree is over.
@@ -46,9 +48,11 @@ And the really fantastic news is that both of these principles are used in the m
 
 As a bonus, a well-known method for learning is "active encoding". This is well known but requires effort to implement: it involves actively engaging with what you're attempting to learn. This could involve taking what you're learning and thinking how it relates to other things you know, devising memorable mnemonic devices to make things stick in your brain (for example "Richard of York Gave Battle in Vain" for the colours in the rainbow), or thinking of further questions (i.e. "that's interesting, I wonder if the P45 gene can be influenced by epigenetics?").
 
-(For a great primer on active recall & spaced repetition, check out this Ali Abdaal video)
+(For a great primer on active recall & spaced repetition, check out this [Ali Abdaal video](https://www.youtube.com/watch?v=Z-zNHHpXoMM))
 
 ### Anki
+
+![images/key_1_02.jpeg]
 
 Put simply, Anki is a flashcard tool. I remember making paper flashcards at Univeristy, and they worked pretty well. However, using a digital tool has some huge advantages.
 
@@ -71,6 +75,8 @@ First, and potentially most importantly, is the idea of "fluency". Put simply, f
 The second part of why memorisation is profound: when you have something memorised, you can recall it at will, for example whilst thinking on a walk or studying a related topic. This is now part of your mental interior and you can use it on the fly. In a lecture, this could manifest in a lecturer mentioning a certain gene and you remembering a similar gene and wondering how they interact. At work, it could be that whilst brainstorming a solution to a problem, you remember how a similar thing was worked out. In a conversation, it could be recalling a similar thing to what your friend is talking about in a book you read.
 
 ### Quick aside: the great literature critic Harold Bloom on the profundity of memorisation
+
+![images/key_1_03.jpeg]
 
 (From an interview with Charlie Rose. Whilst Bloom is talking about memorisation of poetry here, I think what he is saying applies perfectly: memorisation changes and empowers you)
 
@@ -136,3 +142,6 @@ What is the process of {{c1::incremental reading}}?
 {{c2::Reading one part of something (i.e. chapter 1), creating flashcards, reviewing those flashcards over a week or so, then coming back and reading chapter 2, etc}}
 
 Main benefit of incremental reading: {{c1::Means that when you return to next chapter, you'll have thoroughly internalised the knowledge from chapter 1}}
+
+## See you in key post 2!
+See key post 2 here: {% post_url key_ideas_2 %}

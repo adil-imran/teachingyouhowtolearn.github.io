@@ -1,8 +1,10 @@
 # Key Ideas Guide 2: Learning, Knowledge, Intelligence, Mastery, Anki
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1121803915&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alexander-large" title="Alexander Large" target="_blank" style="color: #cccccc; text-decoration: none;">Alexander Large</a> · <a href="https://soundcloud.com/alexander-large/thytl-key-ideas-guide-2" title="THYTL Key Ideas Guide 2" target="_blank" style="color: #cccccc; text-decoration: none;">THYTL Key Ideas Guide 2</a></div>
+
 *Original publish date: 2021-09-06*
 
-*2021-09-11 quick note - I highly recommend checking out this episode of the Clearer Thinking podcast with Andy Matuschak (who I mention on the resources page) for a fantastic primer on meta-learning / spaced repetition*
+*2021-09-11 quick note - I highly recommend checking out [this episode](https://clearerthinkingpodcast.com/?ep=063) of the Clearer Thinking podcast with Andy Matuschak (who I mention on the resources page) for a fantastic primer on meta-learning / spaced repetition*
 
 ## Introduction
 
@@ -33,11 +35,13 @@ Before getting too deep into the weeds, here’s a really quick view on what Ank
 *(Note: post 3 on this site is a concise user guide to Anki, covering everything you need to get started + all the key tips I have and things I wish I knew when I started out)*
 
 #### What is it
-In brief, Anki is a free, open-source digital flashcard app, with a really healthy community. 
+In brief, [Anki](https://apps.ankiweb.net/) is a free, open-source digital flashcard app, with a really healthy community. 
 
 You make bespoke digital flashcards (you can also download shared ones, which has pros and cons[2]), and then you review them every day. (Note: the iOS app costs ~£18, but is totally worth it)
 
-A look at my (kind of messy) collection of decks (after 12 minutes of reviewing, leaving only 2 left to do)
+![images/key_2_01]
+
+*A look at my (kind of messy) collection of decks (after 12 minutes of reviewing, leaving only 2 left to do)*
 
 #### The daily review process
 
@@ -51,15 +55,27 @@ You rate each card as you go based on how easy or difficult it was to remember.
 
 If you found it easy, the gap until you next see the card will be longer, whereas if it was hard to recall, you’ll see it sooner: if you couldn’t remember it at all, you’ll see it again tomorrow.
 
-This relates to spaced repetition and the forgetting curve.
+This relates to spaced repetition and the [forgetting curve](https://www.mindtools.com/pages/article/forgetting-curve.htm).
+
+![images/key_2_02]
+
+*Cloze deletion - fill in the blank*
+
+![images/key_2_03]
+
+*Note: here, I’d rank this card as “good” as I recalled it well. As this is an old card, I now won’t see it again for 2.9 years!*
 
 #### Creating flashcards
 The most recommended card type to make is called a cloze deletion: it essentially leads to “fill in the blank” cards. For example:
 
 {{c1::Toby Ord}} is the author of {{c2::The Precipice}} 
-Will lead to 2 cards being made, one that shows “__ is the author of The Precipice”, and one that shows “Toby Ord is the author of __”. A keyboard shortcut can be used to populate the {{c1::}}, making this a really quick card to make (although as I’ve briefly argued based on my experience after reading Andy Matuschak’s “how to write good prompts”, making flashcards first in a plain text file rather than directly in Anki is a much better approach as it allows a holistic view of what has been made, what else could/ should be made, etc).
+Will lead to 2 cards being made, one that shows “__ is the author of The Precipice”, and one that shows “Toby Ord is the author of __”. A keyboard shortcut can be used to populate the {{c1::}}, making this a really quick card to make (although as I’ve briefly argued based on my experience after reading Andy Matuschak’s “[how to write good prompts](https://andymatuschak.org/prompts/)”, making flashcards first in a plain text file rather than directly in Anki is a much better approach as it allows a holistic view of what has been made, what else could/ should be made, etc).
 
-Cards can have images embedded in them to aid with memory, and there are some key patterns to use to make good ones. I’ll be sharing these more in the next post, but here’s an essential list of 20 tips by the creator of SuperMemo, an Anki competitor. And if you’ve got time, this article by Michael Nielsen is an absolutely incredible primer on this field and has some great insights into card patterns and antipatterns. 
+![images/key_2_03]
+
+*Making flashcards in a plain text document is the biggest improvement I’ve made to my Anki workflow in the years I’ve been using it*
+
+Cards can have images embedded in them to aid with memory, and there are some key patterns to use to make good ones. I’ll be sharing these more in the next post, but here’s an [essential list](http://super-memory.com/articles/20rules.htm) of 20 tips by the creator of SuperMemo, an Anki competitor. And if you’ve got time, this [article](http://augmentingcognition.com/ltm.html) by Michael Nielsen is an absolutely incredible primer on this field and has some great insights into card patterns and antipatterns. 
 
 Whilst I’ve mentioned that there are patterns to make good ones, and on the flip side you can definitely make bad ones, I’d highly encourage you to get stuck in without worrying too much about this at first. It could feel daunting to act on the 20 tips from Piotr Wozniak immediately, but in my experience I worked a lot of them out in the course of making cards, reviewing them and realising that I’d made some errors in creation (i.e. too vague, to complex etc). Whilst using these rules early can save you pain down the road, I wouldn’t want to make creating cards sound too complex and thus put people off giving it a go ASAP. That being said, the sooner you do start making good cards, the less mad you’ll be at your old self: I still have cards that appear and stun me with how badly I worded them etc.
 
@@ -90,12 +106,13 @@ Here’s a pattern that I’m going to be repeating a lot: concepts pulled from 
 
 So here we go: when we’re aiming to learn, i.e. whilst reading non-fiction, the initial encoding (step 1) is done as we get to grips with the information. The act of making a flashcard is a form of active encoding, whereby we need to give further meaning, & make connections to other things we know (step 2: consolidation). Once the card is made, when it appears in our queue, we have to actively retrieve the information, further strengthening the knowledge. 
 
-Relevant Michael Nielsen quote from here: “making Anki cards is an act of understanding in itself. That is, figuring out good questions to ask, and good answers, is part of what it means to understand a new subject well....'The act of constructing an Anki card is itself nearly always a form of elaborative encoding. It forces you to think through alternate forms of the question”
+Relevant Michael Nielsen quote from [here](http://augmentingcognition.com/ltm.html): “making Anki cards is an act of understanding in itself. That is, figuring out good questions to ask, and good answers, is part of what it means to understand a new subject well....'The act of constructing an Anki card is itself nearly always a form of elaborative encoding. It forces you to think through alternate forms of the question”
 
 ### Bloom's Taxonomy of Learning
-Bloom’s Taxonomy of Learning is a well-known 1956 framework for understanding learning. Below I’ll briefly expand on the 2001 revised version, to demonstrate how learning is typically characterised and how Anki can contribute to deep learning.
 
-The 2001 version outlines 6 categories of learning, in increasing order of complexity, and 4 types of knowledge.
+[Bloom’s Taxonomy of Learning](https://www.simplypsychology.org/blooms-taxonomy.html) is a well-known 1956 framework for understanding learning. Below I’ll briefly expand on the 2001 revised version, to demonstrate how learning is typically characterised and how Anki can contribute to deep learning.
+
+The [2001 version](https://evawintl.org/wp-content/uploads/Blooms-Taxonomy.pdf) outlines 6 categories of learning, in increasing order of complexity, and 4 types of knowledge.
 
 #### Bloom 2001: The 6 Categories of Learning
 
@@ -171,6 +188,10 @@ This highlights the idea of “orphan cards” in Anki. A common & ineffective s
 When learning a new field, you often have very little pre-existing knowledge to work with. Anki means that you can immediately start building out a web of the basics, which makes further learning far easier. 
 
 (Obsidian’s graph view of notes can be used for a visual representation of this. I was struggling to remember that Giving What We Can was founded in 2009, but after adding the extra facts that Obama became President & was awarded the Nobel Peace Prize, & Bitcoin was founded in 2009, the year of GWWC’s founding became far easier to recall)
+
+![images/key_1_05]
+
+*Obsidian graph view to demonstrate idea of interconnecting web of knowledge - the more connections, the easier something is to remember. Cards with very few / only 1 connection are termed “orphan cards”*
 
 ## Intelligence?
 
