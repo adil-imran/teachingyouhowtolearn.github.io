@@ -10,6 +10,6 @@ I believe that empowering people to gain as much knowledge as possible in their 
 
 *(Read my [Effective Altruism Forum post](https://forum.effectivealtruism.org/posts/EwJuWKicdY76rtCsN/utility-of-an-charity-similar-to-80-000-hours-teaching) which outlines my original vision/ mission statement)*
 
-- Key Ideas Guide 1 - Intro & Mission {% post_url posts/key_ideas_1 %}
-- Key Ideas Guide 2 - Learning, Knowledge, Intelligence, Mastery, Anki {% post_url posts/key_ideas_2 %}
-- Key Ideas Guide 3 - Getting Started With Anki {% post_url posts/key_ideas_3 %}
+- Key Ideas Guide 1 - Intro & Mission
+- Key Ideas Guide 2 - Learning, Knowledge, Intelligence, Mastery, Anki
+- Key Ideas Guide 3 - Getting Started With Anki
