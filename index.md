@@ -9,3 +9,7 @@ The current aim is to outline the best techniques for learning and gaining knowl
 I believe that empowering people to gain as much knowledge as possible in their chosen fields will help them increase their impact over their careers.
 
 *(Read my [Effective Altruism Forum post](https://forum.effectivealtruism.org/posts/EwJuWKicdY76rtCsN/utility-of-an-charity-similar-to-80-000-hours-teaching) which outlines my original vision/ mission statement)*
+
+- Key Ideas Guide 1 - Intro & Mission {% post_url posts/key_ideas_1 %}
+- Key Ideas Guide 2 - Learning, Knowledge, Intelligence, Mastery, Anki {% post_url posts/key_ideas_2 %}
+- Key Ideas Guide 3 - Getting Started With Anki {% post_url posts/key_ideas_3 %}
