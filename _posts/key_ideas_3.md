@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Key Ideas Guide 3 - Getting Started With Anki"
+date: 2021-08-17
+---
+
 # Key Ideas Guide 3: Getting Started With Anki
 
 *Original publish date: 16th October 2021*
