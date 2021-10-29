@@ -1,6 +1,8 @@
-layout: page
-title: "Key Ideas Guide 1"
-permalink: /key_ideas_1/
+---
+layout: post
+title: "Key Ideas Guide 1 - Intro & Mission"
+date: 2021-08-17
+---
 
 # Key Ideas Guide 1: Intro & Mission
 
