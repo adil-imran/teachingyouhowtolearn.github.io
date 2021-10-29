@@ -39,7 +39,7 @@ In brief, [Anki](https://apps.ankiweb.net/) is a free, open-source digital flash
 
 You make bespoke digital flashcards (you can also download shared ones, which has pros and cons[2]), and then you review them every day. (Note: the iOS app costs ~£18, but is totally worth it)
 
-![images/key_2_01]
+![images/key_2_01.png]
 
 *A look at my (kind of messy) collection of decks (after 12 minutes of reviewing, leaving only 2 left to do)*
 
@@ -57,11 +57,11 @@ If you found it easy, the gap until you next see the card will be longer, wherea
 
 This relates to spaced repetition and the [forgetting curve](https://www.mindtools.com/pages/article/forgetting-curve.htm).
 
-![images/key_2_02]
+![images/key_2_02.png]
 
 *Cloze deletion - fill in the blank*
 
-![images/key_2_03]
+![images/key_2_03.png]
 
 *Note: here, I’d rank this card as “good” as I recalled it well. As this is an old card, I now won’t see it again for 2.9 years!*
 
@@ -71,7 +71,7 @@ The most recommended card type to make is called a cloze deletion: it essentiall
 {{c1::Toby Ord}} is the author of {{c2::The Precipice}} 
 Will lead to 2 cards being made, one that shows “__ is the author of The Precipice”, and one that shows “Toby Ord is the author of __”. A keyboard shortcut can be used to populate the {{c1::}}, making this a really quick card to make (although as I’ve briefly argued based on my experience after reading Andy Matuschak’s “[how to write good prompts](https://andymatuschak.org/prompts/)”, making flashcards first in a plain text file rather than directly in Anki is a much better approach as it allows a holistic view of what has been made, what else could/ should be made, etc).
 
-![images/key_2_03]
+![images/key_2_03.png]
 
 *Making flashcards in a plain text document is the biggest improvement I’ve made to my Anki workflow in the years I’ve been using it*
 
@@ -189,7 +189,7 @@ When learning a new field, you often have very little pre-existing knowledge to 
 
 (Obsidian’s graph view of notes can be used for a visual representation of this. I was struggling to remember that Giving What We Can was founded in 2009, but after adding the extra facts that Obama became President & was awarded the Nobel Peace Prize, & Bitcoin was founded in 2009, the year of GWWC’s founding became far easier to recall)
 
-![images/key_1_05]
+![images/key_1_05.png]
 
 *Obsidian graph view to demonstrate idea of interconnecting web of knowledge - the more connections, the easier something is to remember. Cards with very few / only 1 connection are termed “orphan cards”*
 

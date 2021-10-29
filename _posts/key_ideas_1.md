@@ -52,7 +52,7 @@ As a bonus, a well-known method for learning is "active encoding". This is well 
 
 ### Anki
 
-![images/key_1_02.jpeg]
+![images/key_1_02.png]
 
 Put simply, Anki is a flashcard tool. I remember making paper flashcards at Univeristy, and they worked pretty well. However, using a digital tool has some huge advantages.
 
