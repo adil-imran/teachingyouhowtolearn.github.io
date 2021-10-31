@@ -4,7 +4,7 @@ title: Teaching You How To Learn
 
 permalink: /:title
 
-baseurl: ""
+baseurl: "/teachingyouhowtolearn.github.io"
 
 sass: 
   style: compressed
